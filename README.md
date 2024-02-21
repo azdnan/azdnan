@@ -1,15 +1,14 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*URVbNQirYASEkRkZPRSv4A.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*URVbNQirYASEkRkZPRSv4A.gif)
 <h1 align="center">Hi 👋, I'm Azdnan from Indonesia</h1>
 <h3 align="center">Detail-oriented Software Quality Assurance and Manual Tester Specialist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.aplombtek.com/frontend/assets/images/applications/QA%20engineers.gif>
+<img align="right" alt="Coding" width="400" src="https://www.aplombtek.com/frontend/assets/images/applications/QA%20engineers.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azdnan&label=Profile%20views&color=0e75b6&style=flat" alt="azdnan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azdnan" alt="azdnan" /></a> </p>
 
-- 🔭 I’m currently working as [a SQA Freelancer](https://www.upwork.com/freelancers/~01d07f89283782aad2)
+- 🔭 I’m currently working as [a Software Quality Assurance Freelancer](https://www.upwork.com/freelancers/~01d07f89283782aad2)
 
-- 🌱 I’m currently learning **Automation Testing using Cypress, Selenium, Robot Framework, Katalon Studio**
+- 🌱 I’m currently learning **Automation Testing using Cypress, Selenium, Robot Framework, and Katalon Studio**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01d07f89283782aad2](https://www.upwork.com/freelancers/~01d07f89283782aad2)
 
