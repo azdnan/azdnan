@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Azdnan from Indonesia</h1>
 <h3 align="center">Software Quality Assurance and Manual Tester Specialist</h3>
 <img align="right" alt="Coding" width="350" src="https://www.aplombtek.com/frontend/assets/images/applications/QA%20engineers.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azdnan&label=Profile%20views&color=0e75b6&style=flat" alt="azdnan" /> </p>
+</p> <a href="[https://www.linkedin.com/in/mokkapps](https://www.linkedin.com/in/nurulazdnan/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
 - 🔭 I’m currently working as a [Freelancer - Software Quality Assurance](https://www.upwork.com/freelancers/~01d07f89283782aad2)
