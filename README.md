@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://www.upwork.com/freelancers/~01d07f89283782aad2)
 
-- 📄 Know about my experiences here: [Latest Resume](https://drive.google.com/drive/folders/1qRYW2XlKa3RFE9kM8SxKm8mtsD2E3AfP?usp=sharing)
+- 📄 Know about my experiences here: [Latest Resume](https://drive.google.com/file/d/1CVAgjx2GGpMhsRjrj5BjzZ1gTiqtxO6f/view?usp=sharing)
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nurulazdnan/) | [Email](mailto:nurul.azdnan@gmail.com) | [WA](https://wa.me/+628995403272)
 
