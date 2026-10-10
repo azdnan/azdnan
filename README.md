@@ -1,14 +1,13 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*URVbNQirYASEkRkZPRSv4A.gif)
 <h1 align="center">Hi 👋, I'm Azdnan from Indonesia</h1>
-<h2 align="center">6+ years of experience as a Software Quality Assurance and Manual Tester Specialist</h2>
+<h2 align="center">10+ years of experience as a Software Quality Assurance and Manual Tester Specialist</h2>
 </p> <h3 align="center"><a href="https://www.linkedin.com/in/nurulazdnan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurulazdnan/" height=25></a>
 <a href="mailto:nurul.azdnan@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nurul.azdnan@gmail.com" height=25></a></h3>
 
 <img align="right" alt="Coding" width="320" src="https://www.aplombtek.com/frontend/assets/images/applications/QA%20engineers.gif">
 
 
-- 🔭 I’m currently working as a [Freelancer - Software Quality Assurance](https://www.upwork.com/freelancers/~01d07f89283782aad2)
-
+- 🔭 I’m currently working as a [Freelancer] QA | Game Tester | Translator | AI Data Annotator
 - 🌱 I’m currently learning **Automation Testing using Cypress, Selenium, Robot Framework, Playwright, and Katalon Studio**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://www.upwork.com/freelancers/~01d07f89283782aad2)
